@@ -17,7 +17,7 @@ def fib(n):
     Lesto, acá te puedo explicar: acá defino la funcion de fib y
     le digo que en primer lugar si me ponés 1 en los numeritos
     te devuelvo 0 con el if, onda, te dice: si n es igual a 1,
-    pone a 0
+    pone 0
     """
     if n==2:
         return 1
